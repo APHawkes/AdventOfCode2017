@@ -21,17 +21,3 @@ For example:
 
     }
 }
-/*
-
-final String input = "";
-int answer = 0;
-for (int i = 0; i < input.length() - 2; i++) {
-  if (input.substring(i, i + 1).equals(input.substring(i + 1, i + 2))) {
-    answer += new Integer(input.substring(i, i + 1));
-  }
-}
-if (input.substring(0,1).equals(input.substring(input.length()-1))) {
-  answer += new Integer(input.substring(0,1));
-}
-System.out.println(answer);
- */

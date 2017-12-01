@@ -23,3 +23,6 @@ hs_err_pid*
 Day01A/.idea/
 *.iml
 Day01A/target/
+.idea
+/target
+Day01B/target/
